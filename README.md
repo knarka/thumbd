@@ -1,0 +1,2 @@
+# thumbd
+finger daemon
